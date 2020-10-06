@@ -1,7 +1,7 @@
 # Java - Selenium - Test Automation
 ## Maven
 
-OJDK v.8
+Open JDK v.8
 
 DataDriven Test, POM & Page Factory
 
